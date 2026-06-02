@@ -1,0 +1,227 @@
+{
+  "minecraft:wooden_pickaxe": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:planks": 3,
+      "minecraft:stick": 2
+    }
+  },
+
+  "minecraft:stone_pickaxe": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:cobblestone": 3,
+      "minecraft:stick": 2
+    }
+  },
+
+  "minecraft:iron_pickaxe": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:iron_ingot": 3,
+      "minecraft:stick": 2
+    }
+  },
+
+  "minecraft:diamond_pickaxe": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:diamond": 3,
+      "minecraft:stick": 2
+    }
+  },
+
+  "minecraft:wooden_sword": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:planks": 2,
+      "minecraft:stick": 1
+    }
+  },
+
+  "minecraft:stone_sword": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:cobblestone": 2,
+      "minecraft:stick": 1
+    }
+  },
+
+  "minecraft:iron_sword": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:iron_ingot": 2,
+      "minecraft:stick": 1
+    }
+  },
+
+  "minecraft:diamond_sword": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:diamond": 2,
+      "minecraft:stick": 1
+    }
+  },
+
+  "minecraft:crafting_table": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:planks": 4
+    }
+  },
+
+  "minecraft:furnace": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:cobblestone": 8
+    }
+  },
+
+  "minecraft:stick": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:planks": 2
+    }
+  },
+
+  "minecraft:chest": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:planks": 8
+    }
+  },
+
+  "minecraft:bread": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:wheat": 3
+    }
+  },
+
+  "minecraft:shield": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:planks": 6,
+      "minecraft:iron_ingot": 1
+    }
+  },
+
+  "minecraft:iron_axe": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:iron_ingot": 3,
+      "minecraft:stick": 2
+    }
+  },
+
+  "minecraft:diamond_axe": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:diamond": 3,
+      "minecraft:stick": 2
+    }
+  },
+
+  "minecraft:iron_shovel": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:iron_ingot": 1,
+      "minecraft:stick": 2
+    }
+  },
+
+  "minecraft:diamond_shovel": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:diamond": 1,
+      "minecraft:stick": 2
+    }
+  },
+
+  "minecraft:iron_helmet": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:iron_ingot": 5
+    }
+  },
+
+  "minecraft:iron_chestplate": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:iron_ingot": 8
+    }
+  },
+
+  "minecraft:iron_leggings": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:iron_ingot": 7
+    }
+  },
+
+  "minecraft:iron_boots": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:iron_ingot": 4
+    }
+  },
+
+  "minecraft:diamond_helmet": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:diamond": 5
+    }
+  },
+
+  "minecraft:diamond_chestplate": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:diamond": 8
+    }
+  },
+
+  "minecraft:diamond_leggings": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:diamond": 7
+    }
+  },
+
+  "minecraft:diamond_boots": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:diamond": 4
+    }
+  },
+
+  "minecraft:bow": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:string": 3,
+      "minecraft:stick": 3
+    }
+  },
+
+  "minecraft:arrow": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:flint": 1,
+      "minecraft:stick": 1,
+      "minecraft:feather": 1
+    }
+  },
+
+  "minecraft:ladder": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:stick": 7
+    }
+  },
+
+  "minecraft:boat": {
+    "type": "crafting",
+    "ingredients": {
+      "minecraft:planks": 5
+    }
+  }
+}
