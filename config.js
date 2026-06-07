@@ -1,5 +1,5 @@
 module.exports = {
-  host: 'mordial.mc-server.net',
+  host: 'play.kaboom.pw',
   port: 25565,
   username: 'Quin',
   
@@ -9,7 +9,9 @@ module.exports = {
   cooldownMs: 0,
 admins: [
   'Quinbiz',
-  'Jibluz'
+  'Jibluz',
+  '. Quinbiz:',
+  '. Jibluz:'
 ],
   systemPrompt: `
 You are Quin, a Minecraft assistant.
@@ -17,4 +19,3 @@ Be short, natural, and helpful.
 Only respond when directly addressed.
 `
 };
-
